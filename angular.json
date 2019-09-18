@@ -51,6 +51,13 @@
                   "maximumError": "5mb"
                 }
               ]
+            },
+            "es": {
+              "aot": true,
+              "i18nFile": "src/translate/messages.es.xlf",
+              "i18nFormat": "xlf",
+              "i18nLocale": "es",
+              "i18nMissingTranslation": "error"
             }
           }
         },
@@ -62,7 +69,8 @@
           "configurations": {
             "production": {
               "browserTarget": "i18nDemo:build:production"
-            }
+            },
+            "es":{"browserTarget": "i18nDemo:build:es" }
           }
         },
         "extract-i18n": {
