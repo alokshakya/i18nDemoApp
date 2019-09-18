@@ -65,6 +65,13 @@
               "i18nFormat": "xlf",
               "i18nLocale": "hi",
               "i18nMissingTranslation": "error"
+            },
+            "en": {
+              "aot": true,
+              "i18nFile": "src/translate/messages.en.xlf",
+              "i18nFormat": "xlf",
+              "i18nLocale": "en",
+              "i18nMissingTranslation": "error"
             }
           }
         },
@@ -78,7 +85,8 @@
               "browserTarget": "i18nDemo:build:production"
             },
             "es":{"browserTarget": "i18nDemo:build:es" },
-            "hi":{"browserTarget": "i18nDemo:build:hi" }
+            "hi":{"browserTarget": "i18nDemo:build:hi" },
+            "en":{"browserTarget": "i18nDemo:build:en" }
           }
         },
         "extract-i18n": {
