@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="cd299a9a7bd5d4962e27040b729b21cb4eb7807a" datatype="html">
         <source>Localization Demo in Angular using i18n</source>
-        <target>I18n का उपयोग कर कोणीय में स्थानीयकरण डेमो</target>
+        <target>i18n का उपयोग कर कोणीय में स्थानीयकरण डेमो</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">1</context>
@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="myName" datatype="html">
         <source>Hello, My name is Ankit</source>
-        <target>हेलो, मेरा नाम अंकित है</target>
+        <target>हेलो, मेरा नाम अलोक कुमार है </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">5</context>
