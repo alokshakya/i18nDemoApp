@@ -11,8 +11,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="myName" datatype="html">
-        <source>Hello, My name is Ankit</source>
-        <target>Hello, My name is Ankit</target>
+        <source>Hello, My name is Alok Kumar</source>
+        <target>Hello, My name is Alok Kumar</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">5</context>
